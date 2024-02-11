@@ -17,11 +17,6 @@ We are introducing a new task in NLP named Poem Summarization along with a novel
 
 ------------------------------------------
 
-***Code to be updated very soon.***
-
-
-------------------------------------------
-
 ### Our Paper
 
 [Unveiling the Essence of Poetry: Introducing a Comprehensive Dataset and Benchmark for Poem Summarization](https://aclanthology.org/2023.emnlp-main.920/)
